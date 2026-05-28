@@ -1,0 +1,32 @@
+aid: ip2proxy
+name: IP2Proxy
+description: "Detect proxy and VPN using IP address"
+url: https://www.ip2location.com/web-service/ip2proxy
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: IP2Proxy
+    description: "Detect proxy and VPN using IP address"
+    humanURL: https://www.ip2location.com/web-service/ip2proxy
+    baseURL: https://www.ip2location.com/web-service/ip2proxy
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://www.ip2location.com/web-service/ip2proxy
+common:
+  - type: Website
+    url: https://www.ip2location.com/web-service/ip2proxy
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
