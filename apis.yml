@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ip2proxy.p
 name: IP2Proxy
 description: "Detect proxy and VPN using IP address"
 url: https://www.ip2location.com/web-service/ip2proxy
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
